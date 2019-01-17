@@ -1,4 +1,50 @@
 html {
   font-family: Helvetica, sans-serif;
+  font-size: 14px;
   text-align: center;
+  color: DimGray;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a {
+  color: White;
+  font-size: 18px;
+}
+
+.header {
+  background color: DimGray;
+  background-image: url(./../images/bg.png);
+  color: White;
+}
+
+.ny {
+  background-color: DimGray;
+  background-image: url(./../images/bg.png);
+  color: White;
+}
+
+.footer {
+  background-color: DimGray;
+  font-size: 11px;
+  text-align: left;
+  color: White;
+}
+
+.footer a {
+  font-size: 11px;
 }
