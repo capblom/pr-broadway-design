@@ -2,7 +2,6 @@ html {
   font-family: Helvetica, sans-serif;
   font-size: 14px;
   text-align: center;
-  color: DimGray;
 }
 
 h1 {
@@ -43,8 +42,4 @@ a {
   font-size: 11px;
   text-align: left;
   color: White;
-}
-
-.footer a {
-  font-size: 11px;
 }
